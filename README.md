@@ -1,2 +1,3 @@
 # Prow-tutorial
-Prow walkthrough...Preparing for PR
+Prow walkthrough. Preparing for PR
+
