@@ -14,4 +14,4 @@ plugins:
   - lgtm # /lgtm
   - assign # /assign @user, /cc @user
   - approve # /approve
-  - trigger
+  - trigger # /trigger
